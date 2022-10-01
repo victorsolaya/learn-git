@@ -6,4 +6,6 @@ Click in edit this file
 
 Start a pull request
 
+Add a new pull requet with a branch
+
 Then merge your pull request
